@@ -1,4 +1,4 @@
-package mygolib
+package v2
 
 import (
 	"fmt"
