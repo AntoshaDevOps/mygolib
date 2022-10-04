@@ -1,7 +1,9 @@
 package mygolib
 
-import "fmt"
+import (
+	"fmt"
+)
 
 func VersionPrint() {
-	fmt.Println("v1.0.0")
+	fmt.Println("v1.1.0")
 }
